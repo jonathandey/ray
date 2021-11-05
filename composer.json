@@ -23,10 +23,10 @@
         "spatie/backtrace": "^1.1",
         "spatie/macroable": "^1.0|^2.0",
         "symfony/stopwatch": "^4.0|^5.1",
-        "symfony/var-dumper": "^4.2|^5.1"
+        "symfony/var-dumper": "~3.3|^5.1"
     },
     "require-dev": {
-        "illuminate/support": "6.x|^8.18",
+        "illuminate/support": "5.x|^8.18",
         "nesbot/carbon": "^2.43",
         "phpstan/phpstan": "^0.12.92",
         "phpunit/phpunit": "^9.5",
